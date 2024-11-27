@@ -1,0 +1,36 @@
+[
+    {
+      "product_id": 3,
+      "product_title": "Apple Watch Ultra",
+      "product_image": "https://i.ibb.co.com/WKpqZwG/dd.jpg",
+      "category": "Smart Watch",
+      "price": 799.99,
+      "description": "Durable smartwatch designed for outdoor and adventure lovers.",
+      "Specification": ["49mm Titanium Case", "Always-On Retina Display", "GPS & Cellular", "Long Battery Life"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 7,
+      "product_title": "Samsung Galaxy Watch 6",
+      "product_image": "https://i.ibb.co.com/WKpqZwG/dd.jpg",
+      "category": "Smart Watch",
+      "price": 399.99,
+      "description": "Stylish and feature-packed smartwatch with fitness tracking.",
+      "Specification": ["1.5\" AMOLED Display", "Health & Fitness Tracking", "Heart Rate Monitoring", "Bluetooth & GPS"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 12,
+      "product_title": "Garmin Fenix 7X",
+      "product_image": "https://i.ibb.co.com/WKpqZwG/dd.jpg",
+      "category": "Smart Watch",
+      "price": 899.99,
+      "description": "Advanced multisport GPS watch with long battery life.",
+      "Specification": ["1.4\" Solar Display", "Multi-GNSS Support", "Advanced Health Tracking", "Up to 24-day Battery Life"],
+      "availability": true,
+      "rating": 4.8
+    }
+  ]
+  

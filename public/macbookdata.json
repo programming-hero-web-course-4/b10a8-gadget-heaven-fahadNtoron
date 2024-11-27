@@ -1,0 +1,36 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "Apple MacBook Pro 16\" M1 Max",
+      "product_image": "https://i.ibb.co.com/4WRdfY6/5.jpg",
+      "category": "Laptop",
+      "price": 2499.99,
+      "description": "Powerful MacBook with M1 Max chip, ideal for professionals.",
+      "Specification": ["16\" Retina Display", "M1 Max Chip", "64GB RAM", "1TB SSD"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 5,
+      "product_title": "Apple MacBook Air M2",
+      "product_image": "https://i.ibb.co.com/X7Kp6j8/2.jpg",
+      "category": "Laptop",
+      "price": 999.99,
+      "description": "Lightweight MacBook Air powered by Apple's M2 chip.",
+      "Specification": ["13.6\" Retina Display", "Apple M2 Chip", "8GB RAM", "256GB SSD"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 25,
+      "product_title": "MacBook Pro 14\" M2",
+      "product_image": "https://i.ibb.co.com/X7Kp6j8/2.jpg",
+      "category": "Laptop",
+      "price": 1999.99,
+      "description": "Powerful MacBook with M2 chip, perfect for creatives.",
+      "Specification": ["14\" Liquid Retina Display", "Apple M2 Chip", "16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.7
+    }
+  ]
+  

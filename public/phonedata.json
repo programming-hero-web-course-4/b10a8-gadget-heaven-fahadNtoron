@@ -1,0 +1,80 @@
+[
+    {
+      "product_id": 2,
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co.com/8zNLhvz/6.jpg",
+      "category": "Phone",
+      "price": 1199.99,
+      "description": "High-end flagship phone with an excellent camera system.",
+      "Specification": ["6.8\" Dynamic AMOLED", "Snapdragon 8 Gen 2", "12GB RAM", "200MP Camera"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 6,
+      "product_title": "OnePlus 11 5G",
+      "product_image": "https://i.ibb.co.com/Jsv97VV/7.jpg",
+      "category": "Phone",
+      "price": 749.99,
+      "description": "Flagship OnePlus phone with high refresh rate display.",
+      "Specification": ["6.7\" AMOLED", "Snapdragon 8 Gen 2", "16GB RAM", "50MP Camera"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 11,
+      "product_title": "Apple iPhone 15 Pro Max",
+      "product_image": "https://i.ibb.co.com/8zNLhvz/6.jpg",
+      "category": "Phone",
+      "price": 1099.99,
+      "description": "Apple's latest iPhone with improved cameras and performance.",
+      "Specification": ["6.7\" OLED Display", "A17 Pro Chip", "12GB RAM", "48MP Camera"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 15,
+      "product_title": "Google Pixel 8 Pro",
+      "product_image": "https://i.ibb.co.com/Jsv97VV/7.jpg",
+      "category": "Phone",
+      "price": 999.99,
+      "description": "Google's flagship phone with a stunning display and camera.",
+      "Specification": ["6.7\" LTPO OLED", "Google Tensor G3", "12GB RAM", "50MP Camera"],
+      "availability": true,
+      "rating": 3.0
+    },
+    {
+      "product_id": 20,
+      "product_title": "Samsung Galaxy Z Fold 5",
+      "product_image": "https://i.ibb.co.com/8zNLhvz/6.jpg",
+      "category": "Phone",
+      "price": 1799.99,
+      "description": "Foldable phone with a large screen and powerful features.",
+      "Specification": ["7.6\" Dynamic AMOLED Display", "Snapdragon 8 Gen 2", "12GB RAM", "50MP Camera"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 22,
+      "product_title": "Sony Xperia 1 IV",
+      "product_image": "https://i.ibb.co.com/Jsv97VV/7.jpg",
+      "category": "Phone",
+      "price": 1599.99,
+      "description": "Flagship smartphone designed for photographers and content creators.",
+      "Specification": ["6.5\" 4K OLED Display", "Snapdragon 8 Gen 1", "12GB RAM", "64MP Camera"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 26,
+      "product_title": "Xiaomi Mi 11 Ultra",
+      "product_image": "https://i.ibb.co.com/8zNLhvz/6.jpg",
+      "category": "Phone",
+      "price": 999.99,
+      "description": "Flagship phone with a large AMOLED display and triple camera setup.",
+      "Specification": ["6.81\" AMOLED Display", "Snapdragon 888", "12GB RAM", "50MP Camera"],
+      "availability": true,
+      "rating": 4.5
+    }
+  ]
+  

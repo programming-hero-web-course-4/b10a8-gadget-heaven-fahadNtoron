@@ -1,0 +1,212 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "Apple MacBook Pro 16\" M1 Max",
+      "product_image": "https://i.ibb.co.com/4WRdfY6/5.jpg",
+      "category": "Laptop",
+      "price": 2499.99,
+      "description": "Powerful MacBook with M1 Max chip, ideal for professionals.",
+      "Specification": ["16\" Retina Display", "M1 Max Chip", "64GB RAM", "1TB SSD"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 5,
+      "product_title": "Apple MacBook Air M2",
+      "product_image": "https://i.ibb.co.com/X7Kp6j8/2.jpg",
+      "category": "Laptop",
+      "price": 999.99,
+      "description": "Lightweight MacBook Air powered by Apple's M2 chip.",
+      "Specification": ["13.6\" Retina Display", "Apple M2 Chip", "8GB RAM", "256GB SSD"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 9,
+      "product_title": "Microsoft Surface Laptop 4",
+      "product_image": "https://i.ibb.co.com/ByxJzsP/1.jpg",
+      "category": "Laptop",
+      "price": 1399.99,
+      "description": "Premium laptop with 11th Gen Intel Core processor and high-res display.",
+      "Specification": ["13.5\" PixelSense Display", "Intel Core i7", "16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 13,
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/4WRdfY6/5.jpg",
+      "category": "Laptop",
+      "price": 1499.99,
+      "description": "Compact, powerful ultrabook with a stunning display.",
+      "Specification": ["13.4\" FHD+ Display", "Intel Core i7", "16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 16,
+      "product_title": "Huawei MateBook X Pro",
+      "product_image": "https://i.ibb.co.com/X7Kp6j8/2.jpg",
+      "category": "Laptop",
+      "price": 1799.99,
+      "description": "High-performance laptop with ultra-thin design and powerful specs.",
+      "Specification": ["13.9\" 3K Touch Display", "Intel Core i7", "16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 18,
+      "product_title": "Razer Blade 15 Advanced",
+      "product_image": "https://i.ibb.co.com/ByxJzsP/1.jpg",
+      "category": "Laptop",
+      "price": 2299.99,
+      "description": "Gaming laptop with a sleek design and top-tier performance.",
+      "Specification": ["15.6\" 4K OLED Display", "Intel Core i9", "32GB RAM", "1TB SSD"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 23,
+      "product_title": "HP Spectre x360 14",
+      "product_image": "https://i.ibb.co.com/4WRdfY6/5.jpg",
+      "category": "Laptop",
+      "price": 1599.99,
+      "description": "Convertible laptop with stunning design and powerful performance.",
+      "Specification": ["13.5\" OLED Display", "Intel Core i7", "16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 25,
+      "product_title": "MacBook Pro 14\" M2",
+      "product_image": "https://i.ibb.co.com/X7Kp6j8/2.jpg",
+      "category": "Laptop",
+      "price": 1999.99,
+      "description": "Powerful MacBook with M2 chip, perfect for creatives.",
+      "Specification": ["14\" Liquid Retina Display", "Apple M2 Chip", "16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 29,
+      "product_title": "Microsoft Surface Pro 9",
+      "product_image": "https://i.ibb.co.com/ByxJzsP/1.jpg",
+      "category": "Laptop",
+      "price": 1299.99,
+      "description": "2-in-1 tablet-laptop with versatile usage and great performance.",
+      "Specification": ["13\" PixelSense Display", "Intel Core i7", "8GB RAM", "128GB SSD"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 2,
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co.com/8zNLhvz/6.jpg",
+      "category": "Phone",
+      "price": 1199.99,
+      "description": "High-end flagship phone with an excellent camera system.",
+      "Specification": ["6.8\" Dynamic AMOLED", "Snapdragon 8 Gen 2", "12GB RAM", "200MP Camera"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 6,
+      "product_title": "OnePlus 11 5G",
+      "product_image": "https://i.ibb.co.com/Jsv97VV/7.jpg",
+      "category": "Phone",
+      "price": 749.99,
+      "description": "Flagship OnePlus phone with high refresh rate display.",
+      "Specification": ["6.7\" AMOLED", "Snapdragon 8 Gen 2", "16GB RAM", "50MP Camera"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 11,
+      "product_title": "Apple iPhone 15 Pro Max",
+      "product_image": "https://i.ibb.co.com/8zNLhvz/6.jpg",
+      "category": "Phone",
+      "price": 1099.99,
+      "description": "Apple's latest iPhone with improved cameras and performance.",
+      "Specification": ["6.7\" OLED Display", "A17 Pro Chip", "12GB RAM", "48MP Camera"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 15,
+      "product_title": "Google Pixel 8 Pro",
+      "product_image": "https://i.ibb.co.com/Jsv97VV/7.jpg",
+      "category": "Phone",
+      "price": 999.99,
+      "description": "Google's flagship phone with a stunning display and camera.",
+      "Specification": ["6.7\" LTPO OLED", "Google Tensor G3", "12GB RAM", "50MP Camera"],
+      "availability": true,
+      "rating": 3.0
+    },
+    {
+      "product_id": 20,
+      "product_title": "Samsung Galaxy Z Fold 5",
+      "product_image": "https://i.ibb.co.com/8zNLhvz/6.jpg",
+      "category": "Phone",
+      "price": 1799.99,
+      "description": "Foldable phone with a large screen and powerful features.",
+      "Specification": ["7.6\" Dynamic AMOLED Display", "Snapdragon 8 Gen 2", "12GB RAM", "50MP Camera"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 22,
+      "product_title": "Sony Xperia 1 IV",
+      "product_image": "https://i.ibb.co.com/Jsv97VV/7.jpg",
+      "category": "Phone",
+      "price": 1599.99,
+      "description": "Flagship smartphone designed for photographers and content creators.",
+      "Specification": ["6.5\" 4K OLED Display", "Snapdragon 8 Gen 1", "12GB RAM", "64MP Camera"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 26,
+      "product_title": "Xiaomi Mi 11 Ultra",
+      "product_image": "https://i.ibb.co.com/8zNLhvz/6.jpg",
+      "category": "Phone",
+      "price": 999.99,
+      "description": "Flagship phone with a large AMOLED display and triple camera setup.",
+      "Specification": ["6.81\" AMOLED Display", "Snapdragon 888", "12GB RAM", "50MP Camera"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 3,
+      "product_title": "Apple Watch Ultra",
+      "product_image": "https://i.ibb.co.com/WKpqZwG/dd.jpg",
+      "category": "Smart Watch",
+      "price": 799.99,
+      "description": "Durable smartwatch designed for outdoor and adventure lovers.",
+      "Specification": ["49mm Titanium Case", "Always-On Retina Display", "GPS & Cellular", "Long Battery Life"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 7,
+      "product_title": "Samsung Galaxy Watch 6",
+      "product_image": "https://i.ibb.co.com/WKpqZwG/dd.jpg",
+      "category": "Smart Watch",
+      "price": 399.99,
+      "description": "Stylish and feature-packed smartwatch with fitness tracking.",
+      "Specification": ["1.5\" AMOLED Display", "Health & Fitness Tracking", "Heart Rate Monitoring", "Bluetooth & GPS"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 12,
+      "product_title": "Garmin Fenix 7X",
+      "product_image": "https://i.ibb.co.com/WKpqZwG/dd.jpg",
+      "category": "Smart Watch",
+      "price": 899.99,
+      "description": "Advanced multisport GPS watch with long battery life.",
+      "Specification": ["1.4\" Solar Display", "Multi-GNSS Support", "Advanced Health Tracking", "Up to 24-day Battery Life"],
+      "availability": true,
+      "rating": 4.8
+    }
+  ]
+  
